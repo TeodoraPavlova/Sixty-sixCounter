@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">Sixty-six Counter</string>
+    <string name="player_a">Player A</string>
+    <string name="player_b">Player B</string>
+    <string name="score">0</string>
+    <string name="three_points">+3 Points</string>
+    <string name="two_points">+2 Points</string>
+    <string name="one_point">+1 Point</string>
+    <string name="new_game">New game</string>
+    <string name="congratulations">Congratulations!</string>
+    <string name="i_am_sorry_eleven_points"></string>
+    <string name="are_u_sure">Are you sure?</string>
+</resources>
